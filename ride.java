@@ -1,3 +1,10 @@
+/*
+ID: jpan1
+LANG: JAVA
+TASK: ride
+*/
+
+
 import java.awt.Component;
 import java.util.*;
 import java.io.*;
